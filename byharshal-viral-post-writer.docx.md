@@ -1,6 +1,6 @@
 
 
-| ByHarshal *Viral Post Writer* A repeatable framework for writing posts that get read. LinkedIn  Twitter / X  Instagram Stories |
+| *Viral Post Writer* A repeatable framework for writing posts that get read. LinkedIn  Twitter / X  Instagram Stories |
 | :---- |
 
 **ABOUT THIS DOCUMENT**
